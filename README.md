@@ -2,7 +2,7 @@
 # 1.0.0 features
 To create a shit-ln project
 
-  npm i @puppet-marion/shit-ln
+    npm i @puppet-marion/shit-ln
 
 after installing, do the following
 
